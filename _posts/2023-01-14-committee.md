@@ -14,10 +14,13 @@ Josef Weidendorfer, Leibniz Supercomputing Centre, Munich, Germany\\
 ## Program Committee
 
 Jean-Baptiste Besnard, Paratools\\
+Stephanie Brink, LLNL\\
 Giuseppe Congiu, UTK\\
 Takanori Fujiwara, Linköping University\\
 Michael Gerndt, TU Munich\\
 Kevin Huck, University of Oregon\\
+Kate Isaacs, SCI Utah\\
+Heike Jagode, UTK\\
 Andreas Knuepfer, TU Dresden\\
 Radita Liem, RWTH Aachen\\
 Jonathan Madsen, AMD\\
@@ -26,4 +29,5 @@ Carmen Navarrete, LRZ\\
 Paul Rosen, University of South Florida\\
 Martin Schulz, TU Munich\\
 Nathan Tallent, PNNL\\
-
+Ahmad Tarraf, TU Darmstadt\\
+Brian J.N. Wylie, FZ Juelich\\
