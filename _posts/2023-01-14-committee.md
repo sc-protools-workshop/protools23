@@ -18,6 +18,7 @@ Stephanie Brink, LLNL\\
 Giuseppe Congiu, UTK\\
 Takanori Fujiwara, Linköping University\\
 Michael Gerndt, TU Munich\\
+Judit Gimenez, BSC\\
 Kevin Huck, University of Oregon\\
 Kate Isaacs, SCI Utah\\
 Heike Jagode, UTK\\
